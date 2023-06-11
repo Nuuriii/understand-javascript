@@ -1,0 +1,12 @@
+#Studi Kasus: Menghitung Jumlah Karakter Unik dalam Sebuah Kalimat
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah kalimat dan menghitung jumlah karakter unik yang terdapat dalam kalimat tersebut. Gunakan metode String dan konsep Set dalam JavaScript.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi dengan nama countUniqueCharacters yang menerima satu parameter: sentence.
+
+2. Di dalam fungsi, buat variabel uniqueCharacters yang mengambil karakter unik dari sentence menggunakan konsep Set.
+
+3. Gunakan metode size pada objek Set untuk mendapatkan jumlah karakter unik dalam kalimat.
+
+4. Kembalikan nilai uniqueCharacters.size sebagai hasil dari fungsi.

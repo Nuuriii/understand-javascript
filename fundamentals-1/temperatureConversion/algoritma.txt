@@ -1,0 +1,16 @@
+1. Meminta pengguna memasukkan suhu yang akan dikonversi:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan suhu.
+    - Simpan nilai suhu yang dimasukkan dalam variabel.
+
+2. Meminta pengguna memasukkan tipe konversi:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan tipe konversi (misalnya, "celsius" atau "fahrenheit").
+    - Simpan nilai tipe konversi yang dimasukkan dalam variabel.
+
+3. Melakukan pengkondisian untuk konversi suhu:
+    - Gunakan pengkondisian if dan else if untuk memeriksa tipe konversi yang dimasukkan.
+    - Jika tipe konversi adalah "celsius", lakukan konversi suhu dari Fahrenheit ke Celsius dengan rumus (suhu - 32) * 5/9.
+    - Jika tipe konversi adalah "fahrenheit", lakukan konversi suhu dari Celsius ke Fahrenheit dengan rumus (suhu * 9/5) + 32.
+    - Simpan hasil konversi dalam variabel.
+
+4. Menampilkan hasil konversi:
+    - Gunakan console.log untuk menampilkan hasil konversi suhu kepada pengguna.

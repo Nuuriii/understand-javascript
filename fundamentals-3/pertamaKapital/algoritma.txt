@@ -1,0 +1,14 @@
+#Studi Kasus: Mengganti Huruf Pertama menjadi Kapital
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah string dan mengganti huruf pertama dalam string tersebut menjadi huruf kapital.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi arrow dengan nama gantiHurufPertama yang menerima satu parameter: kata.
+
+2. Di dalam fungsi, gunakan method slice() untuk mengambil karakter pertama dari kata dan gunakan method toUpperCase() untuk mengubahnya menjadi huruf kapital.
+
+3. Gunakan method slice() lagi untuk mengambil sisa karakter setelah huruf pertama dari kata.
+
+4. Gabungkan huruf pertama yang sudah diubah menjadi huruf kapital dengan sisa karakter menggunakan operator + atau menggunakan template literals (${}).
+
+5. Kembalikan hasil penggabungan sebagai hasil dari fungsi.

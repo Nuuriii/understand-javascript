@@ -1,0 +1,19 @@
+#Studi Kasus: Mengecek Palindrom
+#Dalam studi kasus ini, kita akan membuat aplikasi sederhana menggunakan JavaScript untuk memeriksa apakah sebuah kata atau frase adalah palindrom. Palindrom adalah kata atau frase yang jika dibalik masih tetap sama.
+
+#Langkah-langkah yang akan dilakukan:
+
+1. Meminta pengguna memasukkan kata atau frase:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan kata atau frase.
+
+2. Menghapus spasi dan mengubah huruf menjadi huruf kecil:
+    - Gunakan method toLowerCase dan replace untuk menghapus spasi dan mengubah semua huruf menjadi huruf kecil.
+
+3. Membalik kata atau frase:
+    - Gunakan method split, reverse, dan join untuk membalik kata atau frase yang telah diubah menjadi huruf kecil.
+
+4. Memeriksa apakah kata atau frase asli sama dengan kata atau frase yang dibalik:
+    - Gunakan operator === untuk membandingkan kata atau frase asli dengan kata atau frase yang dibalik.
+
+5. Menampilkan hasil:
+    - Tampilkan pesan kepada pengguna apakah kata atau frase tersebut adalah palindrom atau bukan.

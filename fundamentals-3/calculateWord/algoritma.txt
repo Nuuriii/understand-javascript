@@ -1,0 +1,11 @@
+#Studi Kasus: Menghitung Jumlah Huruf dalam Sebuah Kata
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah kata sebagai parameter dan menghitung jumlah huruf dalam kata tersebut.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi bernama hitungJumlahHuruf yang menerima satu parameter, yaitu kata.
+
+2. Di dalam fungsi, gunakan properti length pada string kata untuk menghitung jumlah huruf dalam kata tersebut.
+
+3. Kembalikan nilai jumlah huruf sebagai hasil dari fungsi.
+

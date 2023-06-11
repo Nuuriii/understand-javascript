@@ -1,0 +1,23 @@
+# Studi Kasus: Penghitungan Indeks Massa Tubuh (BMI)
+# Anda diminta untuk membuat program yang dapat menghitung Indeks Massa Tubuh (Body Mass Index/BMI) berdasarkan berat badan dan tinggi badan pengguna. Program ini akan menggunakan variabel, operator, dan konsep lain yang terkait.
+
+# Langkah - langkah
+
+1. Minta pengguna memasukkan berat badan dan tinggi badan:
+    - Gunakan prompt() untuk meminta pengguna memasukkan berat badan (dalam kilogram) dan tinggi badan (dalam meter).
+
+2. Deklarasikan variabel-variabel yang diperlukan:
+    - Buat variabel beratBadan untuk menyimpan nilai berat badan yang dimasukkan oleh pengguna.
+    - Buat variabel tinggiBadan untuk menyimpan nilai tinggi badan yang dimasukkan oleh pengguna.
+    - Buat variabel bmi untuk menyimpan nilai hasil perhitungan BMI.
+
+3. Hitung nilai BMI:
+    - Gunakan rumus BMI = beratBadan / (tinggiBadan * tinggiBadan) untuk menghitung nilai BMI.
+    - Simpan nilai hasil perhitungan ke dalam variabel bmi.
+
+4. Tentukan kategori BMI:
+    - Gunakan kondisi if dan else if untuk menentukan kategori BMI berdasarkan nilai yang dihasilkan.
+    - Tentukan rentang nilai BMI dan berikan kategori yang sesuai (misalnya, "Kurus", "Normal", "Gemuk").
+
+5. Tampilkan hasil kepada pengguna:
+    - Gunakan alert() untuk mencetak pesan yang mengandung nilai BMI dan kategori BMI kepada pengguna.

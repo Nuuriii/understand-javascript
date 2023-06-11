@@ -1,0 +1,21 @@
+#Studi Kasus: Mencetak Nama Berulang
+#Dalam studi kasus ini, kita akan membuat aplikasi sederhana menggunakan JavaScript yang meminta pengguna memasukkan sebuah nama dan jumlah cetakan, lalu mencetak nama tersebut sebanyak yang diinginkan.
+
+#Langkah-langkah yang akan dilakukan:
+1. Meminta pengguna memasukkan nama:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan nama.
+
+2. Meminta pengguna memasukkan jumlah cetakan:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan jumlah cetakan yang diinginkan.
+
+3. Mengkonversi jumlah cetakan ke dalam tipe data numerik:
+    - Gunakan fungsi parseInt untuk mengubah input pengguna yang berupa string menjadi tipe data numerik (integer).
+
+4. Melakukan pengkondisian:
+    - Gunakan pengkondisian if untuk memeriksa apakah jumlah cetakan valid (lebih dari 0).
+    - Jika jumlah cetakan valid, lanjutkan ke langkah selanjutnya.
+    - Jika jumlah cetakan tidak valid, tampilkan pesan kesalahan dan berhenti.
+
+5. Melakukan iterasi dan mencetak nama:
+    - Gunakan perulangan for untuk melakukan iterasi sebanyak jumlah cetakan.
+    - Di dalam setiap iterasi, gunakan console.log untuk mencetak nama.

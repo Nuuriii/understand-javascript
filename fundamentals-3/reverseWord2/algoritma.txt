@@ -1,0 +1,14 @@
+#Studi Kasus: Membalikkan Kata
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah kata dan mengembalikan kata tersebut dalam keadaan terbalik.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi arrow dengan nama balikKata yang menerima satu parameter: kata.
+
+2. Di dalam fungsi, gunakan method split() pada string kata untuk memisahkan setiap karakternya menjadi array.
+
+3. Gunakan method reverse() pada array yang dihasilkan untuk membalikkan urutan elemen-elemennya.
+
+4. Gunakan method join() pada array yang telah dibalik untuk menggabungkan kembali elemen-elemennya menjadi string.
+
+5. Kembalikan string yang telah dibalik sebagai hasil dari fungsi.

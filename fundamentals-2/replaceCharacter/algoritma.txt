@@ -1,0 +1,19 @@
+#Studi Kasus: Mengganti Karakter dalam String
+#Dalam studi kasus ini, kita akan membuat aplikasi sederhana menggunakan JavaScript untuk mengganti semua kemunculan karakter tertentu dalam sebuah kalimat dengan karakter lain yang ditentukan oleh pengguna.
+
+#Langkah-langkah yang akan dilakukan:
+
+1. Meminta pengguna memasukkan sebuah kalimat:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan kalimat.
+
+2. Meminta pengguna memasukkan karakter yang akan diganti:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan karakter yang akan diganti.
+
+3. Meminta pengguna memasukkan karakter pengganti:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan karakter pengganti.
+
+4. Mengganti karakter dalam kalimat:
+    - Gunakan method replace untuk mengganti semua kemunculan karakter yang ditentukan dalam kalimat dengan karakter pengganti yang ditentukan.
+
+5. Menampilkan kalimat yang telah diubah:
+    - Tampilkan kalimat yang telah diubah menggunakan console.log.

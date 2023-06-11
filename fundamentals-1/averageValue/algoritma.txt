@@ -1,0 +1,19 @@
+#Studi Kasus: Menghitung Nilai Rata-rata
+#Anda diminta untuk membuat program sederhana yang dapat menghitung nilai rata-rata dari beberapa nilai yang diinputkan. Program ini akan menggunakan variabel, operator, dan konsep lain yang terkait.
+
+1. Deklarasikan variabel-variabel yang diperlukan:
+    - Buat variabel total dan beri nilai awal 0. Variabel ini akan digunakan untuk menyimpan total dari semua nilai yang diinputkan.
+    - Buat variabel count dan beri nilai awal 0. Variabel ini akan digunakan untuk menghitung jumlah nilai yang diinputkan.
+2. Minta pengguna memasukkan beberapa nilai:
+    - Tanyakan pengguna berapa banyak nilai yang akan diinputkan.
+    - Gunakan perulangan, misalnya for atau while, untuk meminta pengguna memasukkan nilai sebanyak yang diminta.
+    - Pada setiap iterasi perulangan:
+        - Minta pengguna memasukkan nilai.
+        - Tambahkan nilai tersebut ke variabel total.
+        - Tambahkan 1 ke variabel count untuk menghitung jumlah nilai yang telah diinputkan.
+3. Hitung nilai rata-rata:
+    - Gunakan operator pembagian (/) untuk membagi nilai total dengan nilai count.
+    - Simpan hasilnya ke dalam variabel average.
+4. Tampilkan nilai rata-rata kepada pengguna:
+    - Cetak nilai rata-rata yang telah dihitung.
+

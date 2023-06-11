@@ -1,0 +1,11 @@
+#Case Study: Password Verification
+#Make a simple program to verify passwords based on certain criteria. Here are the step
+
+#Algorithm
+1. Declare a variable to store the password to be verified.
+
+2. Check the password length using string operators.
+
+3. Check if the password contains special characters.
+
+4. Check if the password contains numbers.

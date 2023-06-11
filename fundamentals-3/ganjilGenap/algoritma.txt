@@ -1,0 +1,10 @@
+#Studi Kasus: Menentukan Bilangan Ganjil atau Genap
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah bilangan dan menentukan apakah bilangan tersebut ganjil atau genap.
+
+#Langkah - langkah
+
+1. Buatlah sebuah fungsi arrow dengan nama cekGanjilGenap yang menerima satu parameter: bilangan.
+
+2. Di dalam fungsi, gunakan operator modulo (%) untuk memeriksa apakah bilangan habis dibagi dua.
+
+3. Gunakan operator ternary untuk mengembalikan nilai "Genap" jika bilangan habis dibagi dua, dan "Ganjil" jika tidak.

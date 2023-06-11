@@ -1,0 +1,14 @@
+1. Meminta pengguna memasukkan nilai alas:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan nilai alas segitiga.
+
+2. Meminta pengguna memasukkan nilai tinggi:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan nilai tinggi segitiga.
+
+3. Mengonversi input pengguna menjadi bilangan:
+    - Gunakan fungsi parseFloat untuk mengonversi input pengguna dari string menjadi bilangan desimal.
+
+4. Menghitung luas segitiga:
+    - Gunakan rumus luas segitiga yaitu 0.5 * alas * tinggi untuk menghitung luas segitiga.
+
+5. Menampilkan hasil luas segitiga:
+    - Gunakan console.log untuk menampilkan hasil perhitungan luas segitiga kepada pengguna.

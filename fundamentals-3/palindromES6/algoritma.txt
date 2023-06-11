@@ -1,0 +1,14 @@
+#Studi Kasus: Memeriksa Palindrom
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah string dan memeriksa apakah string tersebut adalah palindrom.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi arrow dengan nama isPalindrom yang menerima satu parameter: string.
+
+2. Di dalam fungsi, gunakan metode split(), reverse(), dan join() pada string untuk membalikkan urutan karakter dalam string tersebut.
+
+3. Setelah string dibalik, gunakan metode toLowerCase() pada string tersebut untuk mengubah semua karakter menjadi huruf kecil.
+
+4. Gunakan operator === untuk membandingkan string asli dengan string yang sudah dibalik.
+
+5. Jika kedua string sama, kembalikan true, yang menandakan bahwa string adalah palindrom. Jika tidak, kembalikan false.

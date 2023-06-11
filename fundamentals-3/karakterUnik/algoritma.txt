@@ -1,0 +1,14 @@
+#Studi Kasus: Menghitung Jumlah Karakter Unik dalam Sebuah Kalimat
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah kalimat dan menghitung jumlah karakter unik yang terdapat dalam kalimat tersebut.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi arrow dengan nama hitungKarakterUnik yang menerima satu parameter: kalimat.
+
+2. Di dalam fungsi, buatlah sebuah objek kosong menggunakan sintaksis objek literal {} dengan nama karakterUnik untuk menyimpan karakter unik dan jumlah kemunculannya.
+
+3. Gunakan perulangan for...of untuk mengiterasi setiap karakter dalam kalimat.
+
+4. Di dalam perulangan, gunakan operator in untuk memeriksa apakah karakter saat ini sudah ada dalam objek karakterUnik. Jika iya, tambahkan jumlah kemunculan karakter tersebut. Jika tidak, tambahkan karakter tersebut ke objek karakterUnik dengan jumlah kemunculan awal 1.
+
+5. Setelah perulangan selesai, kembalikan objek karakterUnik sebagai hasil dari fungsi.

@@ -1,0 +1,20 @@
+#Studi Kasus: Mengubah Huruf Pertama Setiap Kata Menjadi Huruf Kapital
+#Tugas: Buatlah sebuah fungsi yang menerima sebuah kalimat dan mengubah huruf pertama setiap kata dalam kalimat menjadi huruf kapital.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi dengan nama capitalizeFirstLetterEachWord yang menerima satu parameter: sentence.
+
+2. Di dalam fungsi, gunakan method split(' ') pada sentence untuk memecah kalimat menjadi array kata-kata.
+
+3. Gunakan method map() pada array kata-kata untuk mengubah setiap kata menjadi versi dengan huruf pertama kapital.
+
+4. Di dalam method map(), gunakan method charAt(0).toUpperCase() untuk mengubah huruf pertama setiap kata menjadi huruf kapital.
+
+5. Gunakan method slice(1) untuk mengambil sisa huruf dalam kata setelah huruf pertama.
+
+6. Gabungkan huruf pertama yang sudah diubah menjadi kapital dengan sisa huruf menggunakan operator +.
+
+7. Setelah selesai mengubah setiap kata, gunakan method join(' ') untuk menggabungkan kembali array kata-kata menjadi kalimat.
+
+8. Kembalikan kalimat yang sudah diubah sebagai hasil dari fungsi.

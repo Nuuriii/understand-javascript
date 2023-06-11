@@ -1,0 +1,14 @@
+1. Tentukan harga awal barang atau total pembelian.
+    - Misalnya, kita memiliki variabel hargaAwal yang menyimpan harga awal barang.
+
+2. Tentukan persentase diskon.
+    - Misalnya, kita memiliki variabel diskonPersentase yang menyimpan persentase diskon.
+
+3. Hitung jumlah diskon.
+    - Gunakan rumus: jumlahDiskon = (hargaAwal * diskonPersentase) / 100.
+
+4. Hitung harga setelah diskon.
+    - Gunakan rumus: hargaSetelahDiskon = hargaAwal - jumlahDiskon.
+
+5. Tampilkan harga setelah diskon.
+    - Gunakan console.log untuk menampilkan harga setelah diskon kepada pengguna.

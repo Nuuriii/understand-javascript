@@ -1,0 +1,22 @@
+#Studi Kasus: Kalkulator Sederhana
+#Anda diminta untuk membuat program kalkulator sederhana yang dapat melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Program ini akan menggunakan variabel dan berbagai operator dalam proses perhitungan.
+
+#langkah - langkah
+1. Deklarasikan variabel-variabel yang diperlukan:
+    - Buat variabel num1 dan num2 untuk menyimpan angka yang akan dioperasikan.
+    - Buat variabel operator untuk menyimpan operator yang akan digunakan.
+
+2. Minta pengguna memasukkan dua angka dan operator:
+    - Gunakan prompt() untuk meminta pengguna memasukkan angka pertama dan kedua, dan simpan dalam variabel num1 dan num2.
+    - Gunakan prompt() juga untuk meminta pengguna memasukkan operator yang diinginkan, dan simpan dalam variabel operator.
+
+3. Lakukan operasi matematika berdasarkan operator:
+    - Gunakan pernyataan if atau switch untuk memeriksa nilai operator dan melakukan operasi yang sesuai. Contoh operasi yang dapat dilakukan adalah:
+        - Jika operator sama dengan +, lakukan penjumlahan antara num1 dan num2.
+        - Jika operator sama dengan -, lakukan pengurangan antara num1 dan num2.
+        - Jika operator sama dengan *, lakukan perkalian antara num1 dan num2.
+        - Jika operator sama dengan /, lakukan pembagian antara num1 dan num2.
+    - Simpan hasil operasi ke dalam variabel result.
+
+4. Tampilkan hasil operasi kepada pengguna:
+    - Gunakan console.log() untuk mencetak hasil operasi yang disimpan dalam variabel result.

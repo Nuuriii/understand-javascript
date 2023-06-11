@@ -1,0 +1,12 @@
+#Studi Kasus: Menghitung Panjang Nama
+#Dalam studi kasus ini, kita akan membuat aplikasi sederhana menggunakan JavaScript untuk menghitung panjang nama yang dimasukkan oleh pengguna. Tujuannya adalah untuk memahami penggunaan string, string method, dan operator dalam konteks pengembangan aplikasi.
+
+#Langkah-langkah yang akan dilakukan:
+1. Meminta pengguna untuk memasukkan nama:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan nama.
+
+2. Menghitung panjang nama:
+    - Gunakan method length untuk menghitung panjang string nama yang dimasukkan.
+
+3. Menampilkan panjang nama:
+    - Tampilkan panjang nama menggunakan console.log.

@@ -1,0 +1,22 @@
+#Studi Kasus: Membalikkan Kalimat
+#Dalam studi kasus ini, kita akan membuat aplikasi sederhana menggunakan JavaScript untuk membalikkan kalimat yang dimasukkan oleh pengguna. Kita akan menggunakan string method untuk memanipulasi kalimat dan pengkondisian untuk menampilkan hasil dengan kondisi tertentu.
+
+# Langkah - langkah
+
+1. Meminta pengguna memasukkan kalimat:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan kalimat.
+
+2. Menghapus spasi di awal dan akhir kalimat:
+    - Gunakan method trim untuk menghapus spasi di awal dan akhir string kalimat.
+
+3. Memisahkan kalimat menjadi array kata:
+    - Gunakan method split untuk memisahkan kalimat menjadi array kata. Pisahkan kata berdasarkan spasi sebagai pemisah.
+
+4. Membalikkan setiap kata dalam array:
+    - Gunakan method reverse untuk membalikkan urutan elemen dalam array kata.
+
+5. Menggabungkan kembali array kata menjadi kalimat baru:
+    - Gunakan method join untuk menggabungkan kembali array kata menjadi kalimat baru. Gabungkan kata dengan menggunakan spasi sebagai penghubung.
+
+6. Menampilkan hasil kalimat yang dibalik:
+    - Gunakan console.log untuk menampilkan kalimat yang sudah dibalik.

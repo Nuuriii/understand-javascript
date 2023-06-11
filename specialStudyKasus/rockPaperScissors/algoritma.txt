@@ -1,0 +1,21 @@
+1. Mulai repo Git baru untuk proyek Anda.
+
+2. Buat dokumen HTML kosong dengan tag skrip (Petunjuk: praktik terbaik adalah menautkan file .js eksternal). Game ini akan dimainkan sepenuhnya dari konsol, jadi jangan khawatir tentang memasukkan hal lain ke dalamnya.
+
+3. Gim Anda akan bermain melawan komputer, jadi mulailah dengan fungsi yang disebut getComputerChoice yang secara acak akan mengembalikan 'Rock', 'Paper' atau 'Scissors'. Kami akan menggunakan fungsi ini di dalam game untuk membuat permainan komputer. Kiat: gunakan konsol untuk memastikan ini mengembalikan keluaran yang diharapkan sebelum melanjutkan ke langkah berikutnya!
+
+4. Tulis fungsi yang memainkan Rock Paper Scissors satu putaran. Fungsi harus mengambil dua parameter - playerSelection dan computerSelection - dan kemudian mengembalikan string yang menyatakan pemenang putaran seperti ini: "Kamu Kalah! Kertas mengalahkan Batu"
+     - Jadikan parameter playerSelection fungsi Anda tidak peka huruf besar/kecil (sehingga pengguna dapat memasukkan rock, ROCK, RockK, atau variasi lainnya).
+
+5. Catatan penting: Anda ingin mengembalikan hasil pemanggilan fungsi ini, bukan console.log() mereka. Anda akan menggunakan apa yang Anda kembalikan nanti, jadi
+
+6. Tulis fungsi BARU bernama game(). Gunakan fungsi sebelumnya di dalam yang ini untuk memainkan permainan 5 putaran yang menyimpan skor dan melaporkan pemenang atau pecundang di akhir.
+    - Anda belum secara resmi mempelajari cara "memutar ulang" kode untuk mengulang panggilan fungsi… jika Anda sudah mengetahui tentang loop dari tempat lain (atau jika Anda ingin melakukan lebih banyak pembelajaran) silakan gunakan. Jika tidak, jangan khawatir! Cukup panggil fungsi playRound Anda 5 kali berturut-turut. Loop dibahas dalam pelajaran berikutnya.
+
+    - Pada titik ini Anda harus menggunakan konsol. log() untuk menampilkan hasil setiap putaran dan pemenang di akhir.
+
+    - Gunakan prompt() untuk mendapatkan masukan dari pengguna. Baca dokumen di sini jika perlu.
+
+    - Jangan ragu untuk mengerjakan kembali fungsi Anda sebelumnya jika perlu. Khususnya, Anda mungkin ingin mengubah nilai pengembalian menjadi sesuatu yang lebih bermanfaat.
+    
+    - Jangan ragu untuk membuat lebih banyak fungsi "pembantu" jika menurut Anda akan berguna.

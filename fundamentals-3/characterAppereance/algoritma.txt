@@ -1,0 +1,16 @@
+#Studi Kasus: Menghitung Jumlah Kemunculan Karakter dalam Sebuah Kata
+#Tugas: Buatlah sebuah fungsi yang menerima dua parameter: sebuah kata dan sebuah karakter. Fungsi tersebut akan menghitung berapa kali karakter tersebut muncul dalam kata tersebut.
+
+#langkah-langkah
+
+1. Buatlah sebuah fungsi bernama hitungKemunculanKarakter yang menerima dua parameter: kata dan karakter.
+
+2. Di dalam fungsi, gunakan metode split() pada kata untuk membagi string menjadi array karakter.
+
+3. Buatlah sebuah variabel hitung dengan nilai awal 0 untuk menyimpan jumlah kemunculan karakter.
+
+4. Gunakan perulangan for untuk mengiterasi setiap karakter dalam array.
+
+5. Di dalam perulangan, gunakan kondisi if untuk memeriksa apakah karakter saat ini sama dengan karakter yang dicari. Jika iya, tambahkan 1 ke variabel hitung.
+
+6. Setelah perulangan selesai, kembalikan nilai hitung sebagai hasil dari fungsi.

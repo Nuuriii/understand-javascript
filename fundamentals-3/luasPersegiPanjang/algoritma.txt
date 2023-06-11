@@ -1,0 +1,10 @@
+#Studi Kasus: Menghitung Luas Persegi Panjang
+#Tugas: Buatlah sebuah fungsi yang menerima dua parameter (panjang dan lebar) dan menghitung luas persegi panjang.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi arrow dengan nama hitungLuasPersegiPanjang yang menerima dua parameter: panjang dan lebar.
+
+2. Di dalam fungsi, hitung luas persegi panjang dengan mengalikan panjang dengan lebar.
+
+3. Kembalikan nilai luas sebagai hasil dari fungsi.

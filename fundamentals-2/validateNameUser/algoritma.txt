@@ -1,0 +1,17 @@
+#Studi Kasus: Validasi Nama Pengguna
+#Dalam studi kasus ini, kita akan membuat aplikasi sederhana menggunakan JavaScript untuk memvalidasi nama pengguna yang dimasukkan oleh pengguna. Kita akan menggunakan string method untuk melakukan validasi dan pengkondisian untuk memberikan respons yang sesuai.
+
+#Langkah-langkah yang akan dilakukan:
+
+1. Meminta pengguna memasukkan nama pengguna:
+    - Gunakan fungsi prompt untuk meminta pengguna memasukkan nama pengguna.
+
+2. Menghapus spasi di awal dan akhir nama pengguna:
+    - Gunakan method trim untuk menghapus spasi di awal dan akhir string nama pengguna.
+
+3. Memeriksa panjang nama pengguna:
+    - Gunakan property length untuk mendapatkan panjang string nama pengguna.
+    - Gunakan pengkondisian if untuk memeriksa apakah panjang nama pengguna memenuhi persyaratan yang ditentukan (misalnya, harus lebih dari 3 karakter).
+
+4. Menampilkan pesan validasi:
+    - Gunakan console.log untuk menampilkan pesan yang sesuai berdasarkan validasi yang dilakukan.

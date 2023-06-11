@@ -1,0 +1,11 @@
+#Studi Kasus: Mengkonversi Fahrenheit ke Celcius
+#Tugas: Buatlah sebuah fungsi yang menerima suhu dalam Fahrenheit dan mengkonversinya menjadi Celcius.
+
+#Langkah-langkah:
+
+1. Buatlah sebuah fungsi arrow dengan nama konversiFahrenheitKeCelcius yang menerima satu parameter: fahrenheit.
+
+2. Di dalam fungsi, hitung suhu dalam Celcius dengan rumus (fahrenheit - 32) * 5 / 9.
+
+3. Kembalikan nilai suhu dalam Celcius sebagai hasil dari fungsi.
+
