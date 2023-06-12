@@ -1,0 +1,14 @@
+#Studi Kasus: Manajemen Daftar Belanja
+#Anda diminta untuk membuat program sederhana menggunakan JavaScript yang membantu pengguna dalam mengelola daftar belanjaan. Program ini akan menggunakan fungsi dan array dalam JavaScript untuk memungkinkan pengguna menambahkan item ke daftar belanjaan, menghapus item, dan mencetak daftar belanjaan.
+
+#Langkah-langkah untuk mencapai tujuan tersebut adalah sebagai berikut:
+
+1. Buatlah array kosong dengan nama shoppingList yang akan digunakan untuk menyimpan daftar belanjaan.
+
+2. Buatlah fungsi addItem yang akan digunakan untuk menambahkan item baru ke dalam daftar belanjaan. Fungsi ini akan menerima parameter item yang merupakan nama item yang ingin ditambahkan.
+
+3. Buatlah fungsi removeItem yang akan digunakan untuk menghapus item dari daftar belanjaan. Fungsi ini akan menerima parameter item yang merupakan nama item yang ingin dihapus.
+
+4. Buatlah fungsi printShoppingList yang akan digunakan untuk mencetak daftar belanjaan saat ini. Fungsi ini akan mencetak semua item yang ada dalam shoppingList.
+
+5. Setelah Anda telah menulis fungsi-fungsi di atas, Anda dapat menguji program Anda dengan menambahkan item ke daftar belanjaan, menghapus item, dan mencetak daftar belanjaan.

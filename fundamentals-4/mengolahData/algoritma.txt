@@ -1,0 +1,8 @@
+#Studi Kasus: Mengolah Data Mahasiswa
+#Kita memiliki array mahasiswa yang berisi objek-objek dengan properti nama dan usia. Kita ingin melakukan tugas-tugas berikut:
+
+1. Mencetak nama-nama mahasiswa ke konsol menggunakan forEach().
+    
+2. Menghasilkan array baru yang berisi nama-nama mahasiswa menggunakan map().
+
+3. Menghasilkan array baru yang hanya berisi mahasiswa dengan usia di atas 20 tahun menggunakan filter().
