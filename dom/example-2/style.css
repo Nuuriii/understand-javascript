@@ -1,0 +1,35 @@
+body {
+   background-color: rgb(222, 189, 128);
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.ul-container {
+   background-color: azure;
+   width: 200px;
+   padding: 5px 5px;
+   border-radius: 15px;
+   border: black solid 2px;
+   position: absolute;
+   left: 10rem;
+   top: 70px;
+   color: blue;
+}
+.hidden {
+   display: none;
+}
+
+.container {
+   padding-right: 30px;
+}
+
+.nav {
+   width: 100%;
+   position: fixed;
+   padding: 0 10px;
+   background-color: orange;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
